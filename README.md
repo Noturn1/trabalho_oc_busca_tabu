@@ -30,3 +30,6 @@ python3 busca-tabu_generalizacao.py
 3. Criação de vizinhos que respeitam as restrições de carga horária.
 4. Aplicação da Busca Tabu para otimizar a designação dos módulos aos programadores.
 
+## Licença
+
+Este projeto está licenciado sob a [Unlicense](https://unlicense.org).
